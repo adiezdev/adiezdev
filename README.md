@@ -5,21 +5,23 @@ Mi nombre es Alejadro Díez, soy desarrollador de Aplicaciones Multiplataforma y
 
 Actualmente me encuentro trabajando para CDS, a Hewlett Packard Enterprise company.
 
-Estos son mis lenguajes de programación web
+Estos son mis lenguajes de programación web:
 
-https://img.shields.io/badge/PHP-medio-blueviolet
+![alt_image](https://img.shields.io/badge/PHP-medio-blueviolet)
+![alt_image](https://img.shields.io/badge/JS-medio-yellow)
 
-<!--
-**adilosa95/adilosa95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Estos son mis lenguajes de programación apps:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![alt_image](https://img.shields.io/badge/Kotlin-medio-green)
+![alt_image](https://img.shields.io/badge/Flutter-bajo-blue)
+![alt_image](https://img.shields.io/badge/Swift-bajo-orange)
+
+Me encuentro formandome personalmente en las áreas de:
+
+- React.js
+- Node.js
+- Swift
+- Mongo
+
+### "Todo lo que puedas imaginar, se puede programar 🙂"
