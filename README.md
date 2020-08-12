@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hola 👋
+
+Mi nombre es Alejadro Díez, soy desarrollador de Aplicaciones Multiplataforma y Web
+
+
+Actualmente me encuentro trabajando para CDS, a Hewlett Packard Enterprise company.
+
+Estos son mis lenguajes de programación web
+
+https://img.shields.io/badge/PHP-medio-blueviolet
 
 <!--
 **adilosa95/adilosa95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
