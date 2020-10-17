@@ -10,7 +10,8 @@ Estos son mis lenguajes de programación web:
 ![alt_image](https://img.shields.io/badge/PHP-medio-blueviolet)
 ![alt_image](https://img.shields.io/badge/JS-medio-yellow)
 
-FrameWorks Web
+FrameWorks Web:
+
 ![alt_image](https://img.shields.io/badge/ReactJs-aprendiendo-blue)
 
 Estos son mis lenguajes de programación apps:
