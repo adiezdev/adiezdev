@@ -1,5 +1,5 @@
-### Hola 👋
+### Hi 👋
 
-Mi nombre es Alejadro Díez, soy desarrollador de Aplicaciones Multiplataforma y Web
+My name is Alejandro, Im developer :D
 
-### "Todo lo que puedas imaginar, se puede programar 🙂"
+### "Anything you can imagine, can be programmed 🙂"
